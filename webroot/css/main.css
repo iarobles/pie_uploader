@@ -1,0 +1,108 @@
+/* ---------------------------- boxes -----------------------------*/
+.pie-box-nobg {width:auto;}
+.pie-90pc-box-nobg {width:90%;}
+
+/* box for padding */
+.pie-box-vpadding-50-nobg{
+    height: 50px;
+}
+
+.pie-box-vpadding-30-nobg{
+    height: 30px;
+}
+
+.pie-box-vpadding-20-nobg{
+    height: 20px;
+}
+
+.pie-box-vpadding-10-nobg{
+    height: 10px;
+}
+
+
+
+/* ---------- override of some css rules of login.css ------------ */
+
+.appnitro{
+    height: 290px !important;
+}
+
+#form_container{
+    width:600px !important;
+}
+
+#top{
+    width:600px !important;
+}
+
+#bottom{
+    width:600px !important;
+}
+
+input.medium{
+    width:95%;
+}
+
+h1 {
+    background-color:#6699CC !important;
+}
+
+
+/* ------- login css rules ------------------ */
+.pie-login-container-box{
+    width:600px;
+}
+.pie-login-fields-container{
+    float:left;
+    width:350px;
+}
+
+.pie-login-img-container{
+    float:left;
+    width:240px;
+}
+
+img.pie-logon{
+    width:140px;
+    height:140px;
+    padding: 10px;
+}
+
+.pie-label-container{
+    width:310px !important;
+    padding-left: 10px !important;
+}
+
+
+/*--------estilos para alinear cajas----------*/
+
+.pie-box-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pie-box-left {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.pie-box-right {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.pie-box-default-align {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+
+/* --------------- rules for the file-explorer */
+.file-explorer-input-box{
+    border-color: #CCCCCC !important;
+}
+
+.file-explorer-container-box{
+     width:534px;
+    /*height: 300px !important;*/
+}
